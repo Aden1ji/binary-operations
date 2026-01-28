@@ -30,6 +30,14 @@ Unit tests were written using the JUnit framework. At least three test cases wer
 
 ## Build and Run
 
+## Build and Run
+
 ### Build the project
 ```bash
 mvn clean package
+```
+
+### Run tests
+```bash
+mvn test
+```
